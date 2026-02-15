@@ -1,0 +1,1 @@
+In this assignment, I worked on aligning speech audio with its corresponding text transcript using the Montreal Forced Aligner (MFA) through Docker. The main goal was to understand how forced alignment works and how speech processing tools can be executed inside a containerized environment.
